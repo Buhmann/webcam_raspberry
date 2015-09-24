@@ -1,0 +1,69 @@
+
+
+#logBox {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #CCCCCC #999999 #999999 #CCCCCC;
+    border-image: none;
+    border-right: 1px solid #999999;
+    border-style: solid;
+    border-width: 1px;
+    height: 195px;
+    overflow-y: scroll;
+    padding: 5px;
+    width: 440px;
+    margin-left: 110px;
+    /*background-color: blue;*/
+    display: inline-block;
+
+
+}
+
+#logBox p{
+    font-family: "Andale Mono", AndaleMono, monospace;
+    font-size:12px;
+    margin: 0px;
+    margin-top: 3px;
+
+}
+
+
+#imgStatus{
+    margin-left: 250px;
+    position: absolute;
+    width: 60px;
+}
+
+
+
+#video-jwplayer_wrapper {
+    margin-bottom: 30px;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+#control {
+    /*display:table;*/
+    width: 100%;
+    /*    background-color: yellow;*/
+    margin-bottom:20px;
+}
+
+
+#dpad_image{
+
+}
+#map {
+
+    width: 35%;
+    /*background-color: brown;*/
+    text-align: center;
+    float:left;
+}
+
+.cell {
+    display:table-cell;
+
+}

@@ -1,0 +1,13 @@
+[DEFAULT]
+filepath = /home/pi/elektro/webcam/webinterface/picam
+diskSpaceToReserve = 524288000
+sensitivity = 20
+saveWidth = 1296
+saveHeight = 972
+saveQuality = 15
+height = 480
+width = 640
+fps = 20
+bitrate = 500000
+pan_start_angle = 90.0
+tilt_start_angle = 90.0

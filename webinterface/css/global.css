@@ -1,0 +1,22 @@
+
+html,body {
+    background-color: #ebd5e5;
+}
+
+.main{
+    margin-left: auto; 
+    margin-right: auto;
+    background-color: #f6ebf3;
+    width:980px;
+    min-width: 980px;
+    -moz-border-radius: 10px;-webkit-border-radius: 10px;border-radius: 10px;
+    min-height:950px;
+}
+
+.header {
+    text-align: center
+}
+
+.footer{
+    text-align: center
+}

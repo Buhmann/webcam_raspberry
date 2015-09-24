@@ -1,0 +1,8 @@
+#accordion a{
+    display: inline-block;
+    margin: 5px;
+}
+
+#accordion div{
+    text-align: center;
+}
